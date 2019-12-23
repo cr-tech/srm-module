@@ -1,0 +1,14 @@
+License for SRM module
+======================
+
+Copyright (c) 2012-2020 CR-tech d.o.o. [http://cr-tech.eu/] <info@cr-tech.eu>
+
+All rights reserved. Everything is prohibited without an explicit permission from the copyright holder.
+
+The copyright holder retains all rights in the copyright work, including without limitation, the right to copy, distribute, publish, sell, display or modify the copyright work, and to transfer, assign or grant license of any such rights. If explicitly noted, some libraries are subject to a different copyright and licensing restrictions.
+
+
+Other licenses
+==============
+
+External libraries and SDKs for specific features of SRM modules are released under different licenses. Please check their source code.
